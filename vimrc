@@ -3,6 +3,8 @@ set cursorline
 
 "Python PEP 8
 set tabstop=4
+set wrap
+set textwidth=80
 
 "twitvim
 noremap <Leader>r TwitVim-Leader-r
